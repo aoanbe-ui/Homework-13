@@ -3,9 +3,6 @@ const header = document.getElementById("header");
 const banner = document.getElementById("banner");
 const infoSections = document.getElementById("info-sections");
 
-// ===============================
-// LOAD BOTH JSON FILES
-// ===============================
 
 Promise.all([
   fetch("./data/products.json"),
