@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Gaming Mouse",
+    "price": 45,
+    "imageUrl": "images/product-a.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mechanical Keyboard",
+    "price": 80,
+    "imageUrl": "images/product-b.jpg"
+  }
+]
