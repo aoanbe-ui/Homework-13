@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Gaming Mouse",
-    "price": 45,
+    "title": "Set of plushies",
+    "price": 90,
     "imageUrl": "images/product-a.jpg"
   },
   {
     "id": 2,
-    "title": "Mechanical Keyboard",
-    "price": 80,
+    "title": "Big plushie",
+    "price": 49,
     "imageUrl": "images/product-b.jpg"
   }
 ]
